@@ -1,4 +1,3 @@
-# Technical-screen
 # Package Sorter – Technical Screen Solution
 
 This project implements a package classification function used to determine how a robotic arm should sort incoming packages. The classification is based on the package's **dimensions**, **volume**, and **mass**.
